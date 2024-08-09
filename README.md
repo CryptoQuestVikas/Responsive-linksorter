@@ -8,8 +8,9 @@ git clone https://github.com/CryptoQuestVikas/Responsive-linksorter
 cd Responsive-linksorter
 ```
 
-1. You need to api key from linkshortner website.
-2. Copy api key and paste api on their api section.
+> 1. You need to api key from linkshortner website.
+> 2. Copy api key and paste api on their api section.
+> 3. Other wise not working...
 
 # **Screenshot**
 ![](img/link.png)
